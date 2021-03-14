@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/javagrunt/pipelines-java/_apis/build/status/javagrunt.CI?branchName=main)](https://dev.azure.com/javagrunt/pipelines-java/_build/latest?definitionId=3&branchName=main)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
