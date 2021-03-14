@@ -7,7 +7,7 @@ trigger:
 - main
 
 pool:
-  {{ pool }}
+  vmImage: 'Ubuntu-20.04'
 
 steps:
 - task: Maven@3
